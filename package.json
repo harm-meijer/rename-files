@@ -1,0 +1,12 @@
+{
+  "name": "rename",
+  "version": "1.0.0",
+  "description": "Rename vue files",
+  "main": "index.js",
+  "author": "Harm Meijer",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "glob": "^7.1.6"
+  }
+}
